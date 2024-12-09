@@ -5,7 +5,7 @@
         "update_url": null
     },
     "exported_at": "2024-12-09T08:40:39+01:00",
-    "name": "Paper",
+    "name": "Paper Auto Update",
     "author": "parker@pterodactyl.io",
     "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.",
     "features": [
